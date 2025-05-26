@@ -14,11 +14,5 @@
 ### Mind map:
 https://miro.com/app/board/uXjVOJKKGqY=/?invite_link_id=935436041217
 
-### User flow:
-https://miro.com/app/board/uXjVOJR0KVM=/?invite_link_id=164268132815
-
-### Customer Journey:
-https://uxpressia.com/w/SMVfG/p/kwZDC/m/gWpK4
-
 ### Prototype:
 https://www.figma.com/file/M4oXH8vCHQwXsOuMtSXxKG/Untitled?node-id=0%3A1
